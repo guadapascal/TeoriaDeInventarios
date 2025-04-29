@@ -1,1 +1,1 @@
-# TeoriadDeInventarios
+# TeoriaDeInventarios
